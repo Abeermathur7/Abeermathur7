@@ -1,4 +1,4 @@
-🧑‍💻 Abeer Mathur
+🧑‍💻 ## Abeer Mathur
 Data Scientist | Data Engineer | Digital Innovator
 
 I’m a versatile data scientist and engineer with a strong background in healthcare, computational data science, and autonomous vehicle research. I build robust data solutions and ML models to tackle real-world problems in healthcare, energy, and environmental data analysis. My expertise spans end-to-end data orchestration, ETL pipeline development, machine learning, and more, using frameworks such as Dagster, AWS, and Azure. I’m passionate about leveraging technology to make data-driven decisions that improve business efficiency and clinical outcomes. You can explore more of my work on my [GitHub portfolio][github] and [LinkedIn][linkedin].
