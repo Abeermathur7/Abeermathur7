@@ -3,15 +3,21 @@ Data Scientist | Data Engineer | Digital Innovator
 
 I’m a versatile data scientist and engineer with a strong background in healthcare, computational data science, and autonomous vehicle research. I build robust data solutions and ML models to tackle real-world problems in healthcare, energy, and environmental data analysis. My expertise spans end-to-end data orchestration, ETL pipeline development, machine learning, and more, using frameworks such as Dagster, AWS, and Azure. I’m passionate about leveraging technology to make data-driven decisions that improve business efficiency and clinical outcomes. You can explore more of my work on my [GitHub portfolio][github] and [LinkedIn][linkedin].
 
-<p align="left"> </a> <a href="https://github.com/abeermathur7"> <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/abeermathur7?label=Follow&style=for-the-badge&logo=github"/> </a> <a href="https://abeermathur7.github.io/portfolio/"> <img alt="Portfolio" title="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-abeermathur7.github.io-lightgrey?style=for-the-badge"/> </a> </p>
+<p align="left"> 
+   <a href="https://linkedin.com/in/abeer-mathur">
+      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abeer%20Mathur-0077B5?style=for-the-badge&logo=linkedin"/>
+   </a> 
+   <a href="https://github.com/abeermathur7"> 
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-Follow%20me-333?style=for-the-badge&logo=github&logoColor=white"/>
+   </a> 
+   <a href="https://abeermathur7.github.io/portfolio/"> 
+      <img alt="Portfolio" title="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-abeermathur7.github.io-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+   </a> 
+   <a href="mailto:abeermathur7@gmail.com"> 
+      <img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-abeermathur7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+</p>
 
-<p align="left">
-     <a href="https://linkedin.com/in/abeer-mathur"> 
-       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abeer%20Mathur-blue?style=for-the-badge&logo=linkedin"/>
-      <p align="left"> 
-      </a> <a href="https://github.com/abeermathur7"> 
-        <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/abeermathur7?label=Follow&style=for-the-badge&logo=github"/> </a>
-   </p>
 ### 🛠️ Technical Skills and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
